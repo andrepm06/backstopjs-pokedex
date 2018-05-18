@@ -38,3 +38,7 @@ To promote images to baseline:
 ```
 npm approve
   ``` 
+
+## Example
+
+![alt text](./visual-regression/report_example.png)
