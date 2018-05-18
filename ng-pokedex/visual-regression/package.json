@@ -1,0 +1,15 @@
+{
+  "name": "tdc_backstopjs",
+  "version": "1.0.0",
+  "description": "BacktopJS example for demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/backstopjs/cli/index.js test",
+    "approve": "./node_modules/backstopjs/cli/index.js approve"
+  },
+  "author": "André Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^3.2.15"
+  }
+}
